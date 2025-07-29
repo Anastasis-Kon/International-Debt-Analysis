@@ -40,9 +40,9 @@ Refers to debt held by private sector companies that are not in the financial in
 6. How does debt burden relate to economic stress across different countries and time periods?
 
 
-![Top Debt Countries](images/Q1.png)
+![Top Debt Countries](Images/Q1.png)
 
-![Interest Payments](images/Q2.png)
+![Interest Payments](Images/Q2.png)
 
 
 ## Key Takeaways
